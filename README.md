@@ -1,8 +1,4 @@
-<div align="center">
-<img src="./img/PradoNicolas.jpg" align="center" style="width: 300px" />
-</div>  
-  
-
+ 
 ### <div align="center">Soy Prado Nicolás, un estudiante de Ingeniería en sistemas de Información y desarrollador Full-Stack (MERN)</div>  
   
 
@@ -65,9 +61,13 @@
 
 
 ## Estadísticas de Github 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRADON1CO&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 49%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PRADON1CO&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" align="right" style="width: 48%;" />
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 1%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=PRADON1CO&show_icons=true&count_private=true&hide_border=true" style="width: 75%;" />
+  </div>
+  <div style="margin-left: 1%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PRADON1CO&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" style="width: 100%;" />
+  </div>
 </div>
  
 
