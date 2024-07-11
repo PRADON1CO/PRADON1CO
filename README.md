@@ -63,10 +63,10 @@
 ## Estadísticas de Github 
 <div style="display: flex; justify-content: center;">
   <div style="margin-right: 1%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=PRADON1CO&show_icons=true&count_private=true&hide_border=true" style="width: 75%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=PRADON1CO&show_icons=true&count_private=true&hide_border=true" style="width: 50%;" />
   </div>
   <div style="margin-left: 1%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PRADON1CO&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" style="width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PRADON1CO&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" style="width: 50%;" />
   </div>
 </div>
  
