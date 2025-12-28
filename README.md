@@ -4,7 +4,6 @@
 
 - 🔭Actualmente estoy trabajando de desarrollador FrontEnd
   
-- ❓ Pregúntame sobre cualquier cosa relacionada con la pila MERN y tecnologías relacionadas
   
 
 <br/>  
