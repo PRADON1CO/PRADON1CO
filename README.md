@@ -2,7 +2,8 @@
 ### <div align="center">Soy Prado Nicolás, un estudiante de Ingeniería en sistemas de Información y desarrollador Full-Stack (MERN)</div>  
   
 
-- 🔭Actualmente estoy trabajando de desarrollador freelance  
+- 🔭Actualmente estoy trabajando de desarrollador FrontEnd
+  
 - ❓ Pregúntame sobre cualquier cosa relacionada con la pila MERN y tecnologías relacionadas
   
 
